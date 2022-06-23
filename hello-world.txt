@@ -1,1 +1,3 @@
 Hello odin!, thanks for giving the necessary skills to start coding.
+
+Commit in the right way!!
